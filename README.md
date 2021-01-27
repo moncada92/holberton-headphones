@@ -1,4 +1,4 @@
-# Your Pwoerfull HeadPhones
+# Your Powerfull HeadPhones
 
 <img src="https://github.com/moncada92/holberton-headphones/blob/main/img/headphones_hero_1.jpg"
      alt="shell_holberton_cali"
@@ -9,6 +9,7 @@ In this project i did a developer the website with base in a graphic design real
 - HTML
 - Pure CSS (any frameworks)
 - Not Javascript
+- Import the fonts
 
 The web page should be responsive and same the most possible the graphic design.
 
