@@ -1,4 +1,4 @@
-# Your Powerfull HeadPhones
+<h1 style="color:#FF6565">Your Powerfull HeadPhones</h1>
 
 <img src="https://github.com/moncada92/holberton-headphones/blob/main/img/headphones_hero_1.jpg"
      alt="shell_holberton_cali"
